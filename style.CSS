@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin:0 ;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.ul{
+
+    list-style: none;
+}
+
+.menu-list{
+
+    display:flex;
+    gap:5px;
+    align-items: center;
+}
+
+.site-header{
+
+    display:;
+    gap: ;
+    align-items: ;
+    padding: ;
+}
+
+.home{
+
+    display: ;
+    justify-content: ;
+    align-items: ;
+}
+
+.course-list{
+
+    display:;
+
+}
+.image-list{
+display: flex;
+
+}
+.roda-pé{
+display: flex;
+color: brown;
+background-color: aliceblue;
+margin: 0;
+
+}
+
+
+
+    
+
+
+
